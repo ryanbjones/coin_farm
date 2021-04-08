@@ -1,0 +1,44 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://pokeapi.co/api/v2/pokemon/old mcdonald"
+    },
+    "response": {
+      "binary": false,
+      "body": "Not Found",
+      "headers": {
+        "Date": "Thu, 08 Apr 2021 06:10:22 GMT",
+        "Content-Type": "text/plain; charset=utf-8",
+        "Content-Length": "9",
+        "Connection": "keep-alive",
+        "Set-Cookie": "__cfduid=d1e0e13bd3ee5b2cf16076ac42210cc141617862220; expires=Sat, 08-May-21 06:10:20 GMT; path=/; domain=.pokeapi.co; HttpOnly; SameSite=Lax; Secure",
+        "Access-Control-Allow-Origin": "*",
+        "Cache-Control": "public, max-age=3600, s-maxage=3600",
+        "Etag": "W/\"9-0gXL1ngzMqISxa6S1zx3F4wtLyg\"",
+        "Function-Execution-Id": "1py01jg4c136",
+        "X-Cloud-Trace-Context": "5ca79324f7c34a471336ab60c9c1fe6c",
+        "X-Powered-By": "Express",
+        "X-Served-By": "cache-bur17565-BUR",
+        "X-Cache": "MISS",
+        "X-Cache-Hits": "0",
+        "X-Timer": "S1617862221.948418,VS0,VE1676",
+        "Vary": "Accept-Encoding, x-fh-requested-host, accept-encoding",
+        "CF-Cache-Status": "MISS",
+        "cf-request-id": "0951b3746e000027d4203c1000000001",
+        "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+        "Report-To": "{\"max_age\":604800,\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=u%2FWXmfwzbEfKguGALD%2FFk%2FsNqzIz1l4cw84HqeekQmYpi%2BGoSEQFgfD71Bz1F%2F1V%2ByndhkLlSr4ns%2F%2F7jmNdiUr0pfmd924X2bG4\"}],\"group\":\"cf-nel\"}",
+        "NEL": "{\"max_age\":604800,\"report_to\":\"cf-nel\"}",
+        "Server": "cloudflare",
+        "CF-RAY": "63c95500baa827d4-SLC",
+        "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+      },
+      "status_code": 404,
+      "type": "ok"
+    }
+  }
+]
